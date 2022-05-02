@@ -1,0 +1,20 @@
+.button-container {
+    display: flex;
+    flex-direction: row;
+}
+.numberpad {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+.operatorpad {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+.number {
+    margin: 5px;
+}
+.operator {
+    margin: 5px;
+}
